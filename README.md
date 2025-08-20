@@ -28,4 +28,4 @@ Danny has shared with you 3 key datasets for this case study:
 
 Here’s the ER diagram for Danny’s Diner case study:
 
-![ER Diagram](D:\Downloads\SQL-Case-Studies-main\Danny's Dinner.png)   
+![ER Diagram](image\ERD.png)   
